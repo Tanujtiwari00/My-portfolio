@@ -64,8 +64,7 @@ src/
 
 ## 📸 Portfolio Preview
 
-![Portfolio Preview](./assets/preview.png)
-
+![Portfolio Preview](./assets/portfolio-preview.png)
 ---
 
 ## 🚀 Installation & Setup
