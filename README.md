@@ -4,7 +4,7 @@ A modern, responsive personal portfolio website showcasing my technical skills, 
 
 ## 🌐 Live Demo
 
-🔗 [(https://tanujtiwari-portfolio.vercel.app/)]
+🔗 (https://tanujtiwari-portfolio.vercel.app/)
 
 ---
 
