@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Tanuj Tiwari - Developer Portfolio
 
 A modern, responsive personal portfolio website showcasing my technical skills, software projects, professional experience, and passion for web development, backend systems, and emerging AI technologies.
@@ -73,7 +74,7 @@ src/
 ### Clone repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone https://github.com/Tanujtiwari00/My-portfolio
 ```
 
 ### Install dependencies
@@ -100,11 +101,14 @@ npm run build
 
 ### Tanuj Tiwari
 
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+* GitHub: https://github.com/Tanujtiwari00
+* LinkedIn: https://linkedin.com/in/TanujTiwari
 
 ---
 
 ## 📄 License
 
 This project is licensed under the MIT License.
+=======
+# My-portfolio
+>>>>>>> 8446fb07becd2305b79fa7a0bf8ec14c17c4c7df
