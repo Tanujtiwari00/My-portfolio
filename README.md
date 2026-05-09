@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🚀 Tanuj Tiwari - Developer Portfolio
 
 A modern, responsive personal portfolio website showcasing my technical skills, software projects, professional experience, and passion for web development, backend systems, and emerging AI technologies.
@@ -111,4 +110,4 @@ npm run build
 This project is licensed under the MIT License.
 =======
 # My-portfolio
->>>>>>> 8446fb07becd2305b79fa7a0bf8ec14c17c4c7df
+>> 8446fb07becd2305b79fa7a0bf8ec14c17c4c7df
